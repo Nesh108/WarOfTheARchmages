@@ -1,10 +1,29 @@
 
 {
-  "images" :
-  [
-    {
-      "image" : "card1.png",
-      "name" : "card1"
-    }
-  ]
+	"images": [
+		{
+			"image": "card1.png",
+			"name": "golem"
+		},
+		{
+			"image": "card2.png",
+			"name": "rabbit_yellow"
+		},
+		{
+			"image": "card3.png",
+			"name": "footman_blue"
+		},
+		{
+			"image": "card4.png",
+			"name": "dragon_red"
+		},
+		{
+			"image": "card5.png",
+			"name": "lich"
+		},
+		{
+			"image": "card6.png",
+			"name": "grunt"
+		}
+	]
 }
